@@ -123,7 +123,7 @@ export const socials = [
         href: "https://t.me/OatSwap",
       },
       {
-        label: "Announcement",
+        label: "Announcements",
         href: "https://t.me/OatSwap_ANN",
       },
     ],

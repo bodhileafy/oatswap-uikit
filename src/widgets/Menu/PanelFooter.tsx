@@ -78,7 +78,7 @@ const PanelFooter: React.FC<Props> = ({
     <Container>
       <SocialEntry>
         {cakePriceUsd ? (
-          <PriceLink href="https://pancakeswap.info/token/0x727ec3e82c6e7f2b13ad725bc35acd6f6ecbc6e8" target="_blank">
+          <PriceLink href="https://pancakeswap.info/token/0xff9d1a4bc6cfd3d6b9e5217f01571340e4a5ff1e" target="_blank">
             <PancakeRoundIcon width="24px" mr="8px" />
             <Text color="textSubtle" bold>{`$${cakePriceUsd.toFixed(3)}`}</Text>
           </PriceLink>
